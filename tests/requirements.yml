@@ -1,1 +1,3 @@
-- src: ome.postgresql
+- name: ome.postgresql
+  src: https://github.com/sbesson/ansible-role-postgresql
+  version: psql_repos
